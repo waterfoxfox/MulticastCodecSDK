@@ -183,8 +183,8 @@ unsigned int SDTerminal_GetVersion (void* pTerminal);
 ---
 
 # DEMO源码
-https://github.com/waterfoxfox/SDT-Multicast-FileSendDemo
-https://github.com/waterfoxfox/SDT-Multicast-FileRecvDemo
+https://github.com/waterfoxfox/SDT-Multicast-FileSendDemo <br>
+https://github.com/waterfoxfox/SDT-Multicast-FileRecvDemo <br>
 
 
 

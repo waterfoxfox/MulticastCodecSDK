@@ -182,6 +182,11 @@ unsigned int SDTerminal_GetVersion (void* pTerminal);
 
 ---
 
+# DEMO源码
+https://github.com/waterfoxfox/SDT-Multicast-FileSendDemo
+https://github.com/waterfoxfox/SDT-Multicast-FileRecvDemo
+
+
 # 相关资源
 组播纯传输SDK（无内置编解码）:  [https://github.com/waterfoxfox/MulticastSDK/](https://github.com/waterfoxfox/MulticastSDK/) 
 
